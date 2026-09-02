@@ -1,15 +1,15 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=180&section=header&text=Hi%20there,%20I'm%20Kunal%20Gupta%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=180&section=header&text=Kunal%20Gupta&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
 
   <!-- Animated Typing Tagline -->
   <a href="https://portfolio-website-chi-gilt.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+%26+Frontend+Engineer;MERN+Stack+%2B+TypeScript+Developer;Real-Time+Web+Applications+%26+Socket.IO;Creative+Aesthetic+Interfaces+%26+GSAP" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+%26+Frontend+Engineer;TypeScript+%26+MERN+Stack+Developer;Real-Time+Web+Applications+%26+Socket.IO;High-Performance+Modern+Web+Apps" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <b>Passionate about building high-performance real-time web applications, developer tooling, and visually immersive digital experiences.</b>
+    <b>Full-Stack & Frontend Engineer specializing in real-time systems, performant web applications, and developer tooling.</b>
   </p>
 
   <!-- Quick Action Badges -->
@@ -22,16 +22,16 @@
 
 ---
 
-### ⚡ What I Do
+### Focus Areas
 
-- 💻 **Frontend Architecture**: Building snappy, responsive user interfaces with **React**, **Next.js**, and **TypeScript**.
-- 🔄 **Real-Time Systems**: Crafting collaborative, low-latency applications with **Socket.IO** and **WebSockets**.
-- 🛠️ **Full-Stack & APIs**: Designing robust RESTful services with **Node.js**, **Express**, and **MongoDB**.
-- ✨ **Creative Engineering**: Creating interactive web animations using **GSAP**, **Canvas**, and modern CSS.
+* **Frontend Engineering**: Building responsive, accessible, and high-performance interfaces with **React**, **Next.js**, and **TypeScript**.
+* **Real-Time Systems**: Architecting scalable, low-latency collaborative features using **Socket.IO** and **WebSockets**.
+* **Backend & API Design**: Developing secure, modular RESTful microservices with **Node.js**, **Express**, and **MongoDB**.
+* **Modern UI & Motion**: Implementing smooth interactions and layout architectures with **Tailwind CSS** and **GSAP**.
 
 ---
 
-### 🛠️ Tech Stack & Arsenal
+### Tech Stack
 
 <table>
   <tr>
@@ -85,19 +85,19 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Repositories
 
-| Project | Description | Stack | Links |
+| Repository | Description | Tech Stack | Quick Links |
 | :--- | :--- | :--- | :---: |
-| **[ChatCraft](https://github.com/Kunal-Gupta28/ChatCraft)** | Collaborative cloud IDE with Monaco Editor, in-browser execution via WebContainers, real-time sync, and Gemini AI assistant. | `React` `Socket.IO` `WebContainers` `Gemini AI` | [🌐 Live Demo](https://chat-craft-xi.vercel.app) \| [💻 Code](https://github.com/Kunal-Gupta28/ChatCraft) |
-| **[Kubik](https://github.com/Kunal-Gupta28/Kubik)** | Real-time ride booking platform featuring driver-rider matching, live geolocation tracking, and instant dispatch updates. | `MERN Stack` `Socket.IO` `Leaflet/Maps` | [🌐 Live Demo](https://kuber-tau.vercel.app) \| [💻 Code](https://github.com/Kunal-Gupta28/Kubik) |
-| **[NovaBank](https://github.com/Kunal-Gupta28/NovaBank)** | Modern FinTech banking dashboard with account management, transaction tracking, and financial analytics. | `Next.js` `TypeScript` `Tailwind CSS` | [💻 Code](https://github.com/Kunal-Gupta28/NovaBank) |
-| **[Vendor-Tracker](https://github.com/Kunal-Gupta28/Vendor-Tracker)** | Business vendor and expense tracking application with analytical reporting and management workflows. | `TypeScript` `React` `Tailwind CSS` | [🌐 Live Demo](https://vendor-tracker.vercel.app) \| [💻 Code](https://github.com/Kunal-Gupta28/Vendor-Tracker) |
-| **[Cyberfiction](https://github.com/Kunal-Gupta28/Cyberfiction)** | Awwwards-inspired interactive 3D landing page with canvas frame sequencing, smooth scrolling, and GSAP micro-animations. | `JavaScript` `HTML5/Canvas` `GSAP` | [🌐 Live Demo](https://cyberfiction-pi.vercel.app) \| [💻 Code](https://github.com/Kunal-Gupta28/Cyberfiction) |
+| **[ChatCraft](https://github.com/Kunal-Gupta28/ChatCraft)** | Collaborative cloud IDE with Monaco Editor, in-browser WebContainers execution, real-time sync, and Gemini AI. | `React` `Socket.IO` `WebContainers` `Gemini AI` | [Live Demo](https://chat-craft-xi.vercel.app) \| [Code](https://github.com/Kunal-Gupta28/ChatCraft) |
+| **[Kubik](https://github.com/Kunal-Gupta28/Kubik)** | Real-time ride booking platform featuring driver-rider matching, live geolocation tracking, and instant dispatch updates. | `MERN Stack` `Socket.IO` `Google Maps` | [Live Demo](https://kuber-tau.vercel.app) \| [Code](https://github.com/Kunal-Gupta28/Kubik) |
+| **[NovaBank](https://github.com/Kunal-Gupta28/NovaBank)** | Modern FinTech banking dashboard with account management, transaction tracking, and financial analytics. | `Next.js` `TypeScript` `Tailwind CSS` | [Code](https://github.com/Kunal-Gupta28/NovaBank) |
+| **[Vendor-Tracker](https://github.com/Kunal-Gupta28/Vendor-Tracker)** | Business vendor and expense tracking application with analytical reporting and management workflows. | `TypeScript` `React` `Tailwind CSS` | [Live Demo](https://vendor-tracker.vercel.app) \| [Code](https://github.com/Kunal-Gupta28/Vendor-Tracker) |
+| **[Cyberfiction](https://github.com/Kunal-Gupta28/Cyberfiction)** | Interactive 3D landing page with canvas frame sequencing, smooth scrolling, and GSAP micro-animations. | `JavaScript` `HTML5/Canvas` `GSAP` | [Live Demo](https://cyberfiction-pi.vercel.app) \| [Code](https://github.com/Kunal-Gupta28/Cyberfiction) |
 
 ---
 
-### 📊 GitHub Activity & Stats
+### GitHub Activity & Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kunal-Gupta28&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" height="150" alt="GitHub Stats" />
@@ -107,5 +107,5 @@
 ---
 
 <div align="center">
-  <sub>Designed & built with care by <b><a href="https://github.com/Kunal-Gupta28">Kunal Gupta</a></b></sub>
+  <sub>Engineered by <b><a href="https://github.com/Kunal-Gupta28">Kunal Gupta</a></b></sub>
 </div>
